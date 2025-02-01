@@ -1,6 +1,7 @@
 # BuyIt
 
-Welcome to SYNTAX SQUAD, a team of passionate developers, engineers, and creatives working on our skills in beginner.Our goal is to build innovative solutions and contribute to the tech community through collaborative development, mentorship, and knowledge sharing.
+Welcome to SYNTAX SQUAD, a team of passionate developers, engineers, and creatives working on our skills in beginner.
+Our goal is to build innovative solutions and contribute to the tech community through collaborative development, mentorship, and knowledge sharing.
 
 .
 
