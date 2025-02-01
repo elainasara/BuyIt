@@ -8,7 +8,7 @@ Our goal is to build innovative solutions and contribute to the tech community t
 📌 About Us
 👥 Who We Are:
 
-A group of students from Muthoot Institute Of Science And Technology,Ernakulam.
+A group of students from Muthoot Institute Of Technology and Science,Ernakulam.
 Focused on Software Development & Engineering
 Committed to collaborative learning, innovation, and knowledge sharing
 
